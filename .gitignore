@@ -1,0 +1,19 @@
+# Environment configuration
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Persistent database
+chroma_db/
+
+# Temporary files
+*.tmp
+*.log
+
+# Local IDE settings
+.vscode/
+.idea/
