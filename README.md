@@ -67,11 +67,11 @@ A containerized Retrieval-Augmented Generation (RAG) application that allows use
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DocuMind-AI.git
+git clone https://github.com/amruthasreeraj/DocuMind-AI.git
 cd DocuMind-AI
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
+Replace  with your GitHub username.
 
 ### 2. Download the Ollama Models
 
@@ -129,4 +129,5 @@ Make sure Ollama is running on your host machine before submitting questions or 
 
 ## Author
 
+Amrutha Sreeraj
 M.Sc. Artificial Intelligence graduate with experience in computer vision, deep learning, and API development, expanding into Generative AI, RAG systems, and AI application engineering.
